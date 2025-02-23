@@ -33,7 +33,7 @@ Además, SolutionHub facilita la interacción en tiempo real a través de un cha
 - **Frontend:** HTML, CSS y algo de JavaScript
 - **Backend:** PHP
 - **Base de datos:** MySQL por PHPMyAdmin
-- **Autenticación:** JWT para sesiones seguras
+- **Autenticación:** Login-Register de PHP
 - **Servicios externos:** API de GitHub para mostrar repositorios
 
 ## Instalación
