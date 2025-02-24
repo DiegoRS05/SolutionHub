@@ -68,4 +68,4 @@ git clone https://github.com/tu_usuario/SolutionHub.git
 
 ## Licencia
 
-Este proyecto está bajo la licencia **GPL v2**.
+Este proyecto está bajo la licencia **GPL v3**.
